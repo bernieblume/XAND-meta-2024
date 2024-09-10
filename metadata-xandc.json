@@ -1,7 +1,7 @@
 {
-  "name": "Xandeum Clasic",
+  "name": "Xandeum Classic",
   "symbol": "XANDC",
   "description": "Xandeum Classic",
-  "uri": "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/metadata.json",
+  "uri": "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/metadata-xandc.json",
   "image": "https://raw.githubusercontent.com/bernieblume/XAND-meta-2024/main/XandToken.png"
 }
